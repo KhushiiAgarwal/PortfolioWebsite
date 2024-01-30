@@ -13,9 +13,13 @@
 * Firebase Account using any Gmail id
 * React, node.js installed
 * Follow these steps to install and run the react-app
+```
+npx create-react-app portfolioweb
+```
+
 * Clone the repository:
 ```
-git clone [https://github.com/Om-Khode/Daily-Digest.git](https://github.com/KhushiiAgarwal/PortfolioWebsite)
+git clone https://github.com/KhushiiAgarwal/PortfolioWebsite
 ```
 * Enter Directory Folder
 ```
@@ -32,7 +36,7 @@ npm install react-scripts
 npm install firebase
 npm install web-vitals 
 ```
-
+Replace the src folder in the newly created app
 ## Acknowledgments
 Cryptical Coder[](https://www.youtube.com/watch?v=3aCoZudPEKE&list=WL) for their detailed youtube tutorial
 
