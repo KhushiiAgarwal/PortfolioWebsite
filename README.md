@@ -38,9 +38,9 @@ npm install web-vitals
 ```
 Replace the src folder in the newly created app
 ## Acknowledgments
-- Cryptical Coder [![](https://www.youtube.com/watch?v=3aCoZudPEKE&list=WL)] for their detailed youtube tutorial
-- JS Solutions [![](https://www.youtube.com/watch?v=0HJ9wPq0B54)] for firebase authentication tutorial
-- Firebase Documentation [![](https://firebase.google.com/docs/web/setup)]
+- Cryptical Coder [![Youtube]](https://www.youtube.com/watch?v=3aCoZudPEKE&list=WL) for their detailed youtube tutorial
+- JS Solutions [![Youtube]](https://www.youtube.com/watch?v=0HJ9wPq0B54) for firebase authentication tutorial
+- Firebase Documentation [![Google Firebase]](https://firebase.google.com/docs/web/setup)
 
 ## License
 This project is licensed under [MIT License](docs/license.md)
